@@ -1,0 +1,25 @@
+{
+  "name": "hungarian-county-seats",
+  "version": "1.0.0",
+  "description": "A simple node.js library for getting the county seat of a county in Hungary. Edit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kistasi/hungarian-county-seats.git"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "hungary",
+    "countyseats"
+  ],
+  "author": "Marton Tasnadi <marton.tasnadi@gmail.com> (http://kistasi.hu/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kistasi/hungarian-county-seats/issues"
+  },
+  "homepage": "https://github.com/kistasi/hungarian-county-seats#readme"
+}
