@@ -13,7 +13,7 @@ function getHungarianCountySeat(county) {
 		'Komárom-Esztergom': 'Tatabánya',
 		'Nógrád': 'Salgótarján',
 		'Pest': 'Budapest',
-		'Szabolcs-Szatmár-Bereg': 'Nyíregyháza',
+		'Somogy': 'Kaposvár',
 		'Szabolcs-Szatmár-Bereg': 'Nyíregyháza',
 		'Tolna': 'Szekszárd',
 		'Vas': 'Szombathely',
