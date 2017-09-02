@@ -24,4 +24,4 @@ function getHungarianCountySeat(county) {
 	return counties[county]
 }
 
-module.exports.hungarian_contyseats = getHungarianCountySeat
+module.exports.hungarianCountySeats = getHungarianCountySeat
