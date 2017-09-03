@@ -1,4 +1,4 @@
-function hungarianCountySeats(county) {
+module.exports = function(county) {
 	const counties = {
 		'Bács-Kiskun': 'Kecskemét',
 		'Baranya': 'Pécs',
@@ -23,5 +23,3 @@ function hungarianCountySeats(county) {
 
 	return counties[county]
 }
-
-module.exports.hungarianCountySeats = hungarianCountySeats
