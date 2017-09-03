@@ -1,6 +1,6 @@
 {
   "name": "hungarian-county-seats",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple node.js library for getting the county seat of a county in Hungary. Edit",
   "main": "index.js",
   "scripts": {
