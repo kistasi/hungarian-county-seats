@@ -1,6 +1,6 @@
 Hungarian County Seats
 ======================
-A simple node.js library for getting the county seat of a county in Hungary. Edit
+A simple node.js library for getting the county seat of a county in Hungary.
 
 ## Installation
 ```
@@ -13,4 +13,4 @@ const hungarianCountySeats = require('@jdaudier/hungarian-county-seats');
 const baranyaCountySeat = hungarianCountySeats('Baranya');
 ```
 
-Output should be `Pécs`
+Output should be `Pécs`.
