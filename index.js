@@ -1,4 +1,4 @@
-function getHungarianCountySeat(county) {
+function hungarianCountySeats(county) {
 	const counties = {
 		'Bács-Kiskun': 'Kecskemét',
 		'Baranya': 'Pécs',
@@ -13,8 +13,8 @@ function getHungarianCountySeat(county) {
 		'Komárom-Esztergom': 'Tatabánya',
 		'Nógrád': 'Salgótarján',
 		'Pest': 'Budapest',
-		'Somogy': 'Kaposvár',
 		'Szabolcs-Szatmár-Bereg': 'Nyíregyháza',
+		'Somogy': 'Kaposvár',
 		'Tolna': 'Szekszárd',
 		'Vas': 'Szombathely',
 		'Veszprém': 'Veszprém',
@@ -24,4 +24,4 @@ function getHungarianCountySeat(county) {
 	return counties[county]
 }
 
-module.exports.hungarianCountySeats = getHungarianCountySeat
+module.exports.hungarianCountySeats = hungarianCountySeats
