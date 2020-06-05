@@ -4,7 +4,7 @@ module.exports = function(county) {
 		'Baranya': 'Pécs',
 		'Békés': 'Békéscsaba',
 		'Borsod-Abaúj-Zemplén': 'Miskolc',
-		'Csongrád': 'Szeged',
+		'Csongrád-Csanád': 'Szeged',
 		'Fejér': 'Székesfehérvár',
 		'Győr-Moson-Sopron': 'Győr',
 		'Hajdú-Bihar': 'Debrecen',
